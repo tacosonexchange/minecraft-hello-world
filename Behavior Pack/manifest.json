@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "An example behavior pack for demonstration purposes.",
+        "name": "Hello Minecraft! - Behaviors (0.0.1)",
+        "uuid": "b4f17095-ee92-4858-b049-fd682d9fde49",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "An example behavior pack for demonstration purposes.",
+            "type": "data",
+            "uuid": "b47ac69b-5b77-4c0c-b6c6-5de545db68e9",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "efcd2de9-44b2-4201-ba94-6b82ef59de0f",
+            "version": [0, 0, 1]
+        }
+    ]
+}

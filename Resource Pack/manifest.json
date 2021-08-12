@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "An example resource pack for demonstration purposes.",
+        "name": "Hello Minecraft! - Resources (0.0.1)",
+        "uuid": "efcd2de9-44b2-4201-ba94-6b82ef59de0f",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 0 ]
+    },
+    "modules": [
+        {
+            "description": "An example resource pack for demonstration purposes.",
+            "type": "resources",
+            "uuid": "fca45bed-c308-42ad-9b54-690083e7dc3e",
+            "version": [0, 0, 1]
+        }
+    ]
+}
