@@ -1,6 +1,6 @@
 # 👋 Hello World
 
-This is the Hello Minecraft add-on tutorial. It was created specifically for Stack Exchange and demonstrating how to create a basic add-on for Minecraft: Bedrock edition.
+This is the Hello Minecraft add-on tutorial. It was created specifically for [Stack Exchange](https://gamedev.stackexchange.com/questions/195199/how-can-i-create-a-minecraft-bedrock-edition-add-on) and demonstrating how to create a basic add-on for Minecraft: Bedrock edition.
 
 ## 🏅 Objectives
 
