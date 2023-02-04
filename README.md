@@ -109,3 +109,18 @@ Now that you've created your first custom add-on for Minecraft: Bedrock Edition,
 [![Screenshot of the documentation files within the behavior pack.][10]][10]
 
 In addition to this, there are online resources (such as [Bedrock.dev][11]) that add styling to the aforementioned documentation, making it easier to follow, along with [official resources from Microsoft][12]. Also, [the fandom wiki][13] is a great resource to utilize when trying to [find data values][14] and really detailed information about Minecraft in general.
+
+  [1]: https://code.visualstudio.com/
+  [2]: https://atom.io/
+  [3]: https://www.sublimetext.com/
+  [4]: https://www.techradar.com/best/best-text-editors
+  [5]: https://www.minecraft.net/en-us/addons
+  [6]: https://www.youtube.com/watch?v=US67Tlb8gyE
+  [7]: https://i.stack.imgur.com/siBOh.png
+  [8]: https://i.stack.imgur.com/rpck3.png
+  [9]: https://i.stack.imgur.com/tzCGw.png
+  [10]: https://i.stack.imgur.com/oKSLh.png
+  [11]: https://bedrock.dev/docs/1.17.0.0/1.17.20.23/Addons
+  [12]: https://docs.microsoft.com/en-us/minecraft/creator/documents/gettingstarted
+  [13]: https://minecraft.fandom.com/wiki/Minecraft_Wiki
+  [14]: https://minecraft.fandom.com/wiki/Bedrock_Edition_data_values
